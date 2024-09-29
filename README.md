@@ -22,3 +22,6 @@
 ## 2주차
 
 2024.09.30 ~ 2024.10.06
+
+1. TicketMaster - https://www.youtube.com/watch?v=fhdPyoO6aXI
+2. Uber - https://www.youtube.com/watch?v=lsKU38RKQSo
